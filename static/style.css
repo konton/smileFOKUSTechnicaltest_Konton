@@ -1,0 +1,55 @@
+*{
+    color: white;
+}
+body
+{
+    overflow-x: hidden;
+}
+nav{
+    background-color: #FCC3B6;
+
+
+}
+nav ul{
+    list-style: none;
+    padding: 0;
+}
+
+.Upper{
+    display: grid;
+    grid-template-columns: 35% 65%;
+}
+.UL{
+    background-color: orange;
+    padding:30px;
+  
+    font-size: 25px;
+    padding: 20px;
+    font-size: 20px;
+    margin: 5px 0px 0px 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.UR{
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+    margin: 5px 10px 0px 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+
+    width: 8%;
+}
+
+.Sub{
+    background-color: grey;
+}
+td{
+    color: black;
+    font-weight: bold;
+}
